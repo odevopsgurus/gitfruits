@@ -1,18 +1,18 @@
-  187  git status
-  188  ls
-  189  git init
-  190  git config --global user.name "odevopsgurus"
-  191  git config --global user.email odevopsgurus@gmail.com
-  192  git remote add origin https://github.com/odevopsgurus/gitfruits.git
-  193  git branch -M main
-  194  git commit -M main
-  195  git commit -m " fruits first commit"
-  196  git add  .
-  197  ls
-  198  git add .
-  199  git status
-  200  git commit -m "fruits first commit"
-  201  git push
-  202  git remote add origin https://github.com/odevopsgurus/gitfruits.git
-  203  git push -u origin main
-  204  history > gitprocess.txt
+  git status
+  ls
+  git init
+  git config --global user.name "odevopsgurus"
+  git config --global user.email odevopsgurus@gmail.com
+  git remote add origin https://github.com/odevopsgurus/gitfruits.git
+  git branch -M main
+  git commit -M main
+  git commit -m " fruits first commit"
+  git add  .
+  ls
+  git add .
+  git status
+  git commit -m "fruits first commit"
+  git push
+  git remote add origin https://github.com/odevopsgurus/gitfruits.git
+  git push -u origin main
+  history > gitprocess.txt
