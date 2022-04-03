@@ -1,0 +1,3 @@
+This command initialize  .git directory
+
+This  directory will maintain all  you version, history and configuration
