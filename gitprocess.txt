@@ -15,4 +15,4 @@
   git push
   git remote add origin https://github.com/odevopsgurus/gitfruits.git
   git push -u origin main
-  history > gitprocess.txt
+  story > gitprocess.txt
