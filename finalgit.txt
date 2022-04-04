@@ -1,0 +1,14 @@
+git init
+
+git config global user.name "odevopsgurus"
+
+git config global user.email odevopsguru@gmail.com
+
+git  add . or filename
+
+git commit -m "Message for  update"
+
+git push origin main
+
+
+
